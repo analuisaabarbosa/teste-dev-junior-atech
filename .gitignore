@@ -1,0 +1,12 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
